@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Rider / IntelliJ
+.idea/
+
+# .NET build outputs
+bin/
+obj/
+
+# Compiled files
+*.dll
+*.pdb
+*.cache
+
