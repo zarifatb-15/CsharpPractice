@@ -54,54 +54,92 @@ class Program
         //
         // Console.WriteLine($"Simvol: {simvol}");
         // Console.WriteLine($"MAX Simvol: {max}");
-        Console.WriteLine("*****Qiymet Cedveli*****");
-        Console.WriteLine();
-        double applePrice = 2.50;
-        double bananaPrice = 1.20;
-        double orangePrice = 1.80;
-        double strawberryPrice = 3.00;
-        double potatoPrice = 0.80;
-        double tomataPrice = 1.50;
-        Console.WriteLine("-------apple-------" + applePrice + " AZN");
-        Console.WriteLine("-------banan-------" + bananaPrice + " AZN");
-        Console.WriteLine("-------orenge-------" + orangePrice+ " AZN");
-        Console.WriteLine("-------strawberry-------" + strawberryPrice + " AZN");
-        Console.WriteLine("-------potato-------" + potatoPrice + " AZN");
-        Console.WriteLine("-------tomata-------" + tomataPrice + " AZN");
+        
+        
+        
+        // Console.WriteLine("*****Qiymet Cedveli*****");
+        // Console.WriteLine();
+        // double applePrice = 2.50;
+        // double bananaPrice = 1.20;
+        // double orangePrice = 1.80;
+        // double strawberryPrice = 3.00;
+        // double potatoPrice = 0.80;
+        // double tomataPrice = 1.50;
+        // Console.WriteLine("-------apple-------" + applePrice + " AZN");
+        // Console.WriteLine("-------banan-------" + bananaPrice + " AZN");
+        // Console.WriteLine("-------orenge-------" + orangePrice+ " AZN");
+        // Console.WriteLine("-------strawberry-------" + strawberryPrice + " AZN");
+        // Console.WriteLine("-------potato-------" + potatoPrice + " AZN");
+        // Console.WriteLine("-------tomata-------" + tomataPrice + " AZN");
+        //
+        // Console.WriteLine( );
+        // Console.WriteLine( );
+        //
+        // double appleGram = 1.700;
+        // double bananaGram = 2.990;
+        // double orangeGram = 4.800;
+        // double strawberryGram = 5.450;
+        // double potatoGram = 3.600;
+        // double tomataGram = 1.500;
+        //
+        //
+        // double  appleTotal = applePrice * appleGram;
+        // Console.WriteLine("Apple umumi mebleg: " + appleTotal + " AZN");
+        // double bananaTotal = bananaPrice * bananaGram;
+        // Console.WriteLine("Banana umumi mebleg: " + bananaTotal +"AZN");
+        // double orangeTotal = orangePrice * orangeGram;
+        // Console.WriteLine("Orange umumi mebleg: " + orangeTotal + " AZN");
+        // double strawberryTotal = strawberryPrice * strawberryGram;
+        // Console.WriteLine("Strawberry umumi mebleg: " + strawberryTotal + " AZN");
+        // double potatoTotal = potatoPrice * potatoGram;
+        // Console.WriteLine("Potato umumi mebleg: " + potatoTotal + " AZN");
+        // double tomataTotal = tomataPrice * tomataGram;
+        // Console.WriteLine("Tomata umumi mebleg: " + tomataTotal + " AZN");  
+        //
+        // double shoppingTotalprice=appleTotal + bananaTotal + orangeTotal + strawberryTotal;
+        // Console.WriteLine();
+        // Console.WriteLine();
+        //
+        // Console.WriteLine("Umumi mebleg: " + shoppingTotalprice + " AZN");
 
-        Console.WriteLine( );
-        Console.WriteLine( );
+        // char simvol = 'Z';
+        // Console.WriteLine(simvol);
+        //
+        // Console.WriteLine("****c# hava yollari melumatlari****");
+        // Console.WriteLine();
+        // string passengerName = "";
+        // string passengerSurname="";
+        // string passengerDistination="";
+        // string passengerCity="";
+        // string passengerAge="";
+        // string passengerIdentity="";
+        //
+        // Console.Write("Passenger Name: ");
+        // passengerName = Console.ReadLine();
+        // Console.Write("Passenger Surname: ");
+        // passengerSurname = Console.ReadLine();
+        // Console.Write("Passenger Distination: ");
+        // passengerDistination = Console.ReadLine();
+        // Console.Write("Passenger City: ");
+        // passengerCity = Console.ReadLine();
+        // Console.Write("Passenger Age: ");
+        // passengerAge = Console.ReadLine();
+        // Console.Write("Passenger Identity: ");
+        // passengerIdentity = Console.ReadLine(); 
+        // Console.WriteLine();
+        // Console.WriteLine("-------------------------------");
+        //
+        // Console.WriteLine("Passenger Name:" + passengerName);
+        // Console.WriteLine("Passenger Surname:" + passengerSurname);
+        // Console.WriteLine("Passenger Distination:" + passengerDistination);
+        // Console.WriteLine("Passenger City:" + passengerCity);
+        // Console.WriteLine("Passenger Age:" + passengerAge);
+        // Console.WriteLine("Passenger Identity:" + passengerIdentity);
+        //
         
-        double appleGram = 1.700;
-        double bananaGram = 2.990;
-        double orangeGram = 4.800;
-        double strawberryGram = 5.450;
-        double potatoGram = 3.600;
-        double tomataGram = 1.500;
         
         
-        double  appleTotal = applePrice * appleGram;
-        Console.WriteLine("Apple umumi mebleg: " + appleTotal + " AZN");
-        double bananaTotal = bananaPrice * bananaGram;
-        Console.WriteLine("Banana umumi mebleg: " + bananaTotal +"AZN");
-        double orangeTotal = orangePrice * orangeGram;
-        Console.WriteLine("Orange umumi mebleg: " + orangeTotal + " AZN");
-        double strawberryTotal = strawberryPrice * strawberryGram;
-        Console.WriteLine("Strawberry umumi mebleg: " + strawberryTotal + " AZN");
-        double potatoTotal = potatoPrice * potatoGram;
-        Console.WriteLine("Potato umumi mebleg: " + potatoTotal + " AZN");
-        double tomataTotal = tomataPrice * tomataGram;
-        Console.WriteLine("Tomata umumi mebleg: " + tomataTotal + " AZN");  
-        
-        double shoppingTotalprice=appleTotal + bananaTotal + orangeTotal + strawberryTotal;
-        Console.WriteLine();
-        Console.WriteLine();
-        
-        Console.WriteLine("Umumi mebleg: " + shoppingTotalprice + " AZN");
-        
-        
-        
-        
-        
+
+
     }
 }
